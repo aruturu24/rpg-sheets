@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "lib": [
+      "es2022"
+    ],
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "outDir": "dist",
+    "strict": true,
+    "target": "es2022"
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": ["node_modules"]
+}
